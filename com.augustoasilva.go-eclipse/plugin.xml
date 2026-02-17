@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.newWizards">
+      <category
+            id="com.augustoasilva.go-eclipse"
+            name="Go">
+      </category>
+      <wizard
+            category="com.augustoasilva.go-eclipse"
+            class="com.augustoasilva.goeclipse.wizards.GoNewWizard"
+            icon="icons/go.png"
+            id="com.augustoasilva.goeclipse.wizards.GoNewWizard"
+            name="Go file">
+      </wizard>
+   </extension>
+
+</plugin>
