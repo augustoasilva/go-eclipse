@@ -10,7 +10,7 @@
       <wizard
             category="com.augustoasilva.go-eclipse"
             class="com.augustoasilva.goeclipse.wizards.GoNewWizard"
-            icon="icons/sample.png"
+            icon="icons/go.png"
             id="com.augustoasilva.goeclipse.wizards.GoNewWizard"
             name="Go file">
       </wizard>
